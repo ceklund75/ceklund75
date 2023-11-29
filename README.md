@@ -1,7 +1,6 @@
 - 👋 Hi, I’m CHris
 - 👀 I’m interested in better DXP and headless CMS
-- 🌱 I’m currently learning Gatsby
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Next.js and Faust.js
 - 📫 How to reach me chris dot eklund at g mail
 
 <!---
