@@ -11,7 +11,7 @@ Full-stack engineer specializing in **Next.js, TypeScript, React, and headless W
 ## 📌 Featured Projects
 
 ### [Personal Portfolio](https://github.com/ceklund75/portfolio)
-Next.js 15 + TypeScript portfolio with custom theming system  
+Next.js 16 + TypeScript portfolio with custom theming system  
 🔗 [Live Demo](https://cmeklund.com)
 
 ### [Union Dues Calculator Plugin](https://github.com/ceklund75/dues-calculator-plugin)
