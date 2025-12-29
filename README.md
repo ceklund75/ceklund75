@@ -1,6 +1,6 @@
 # Christopher Eklund
 
-Full-stack engineer specializing in **Next.js, TypeScript, React, and headless WordPress** architectures.
+Full-stack web developer & consultant specializing in **Next.js, TypeScript, React, and headless WordPress** architectures.
 
 ## Tech Stack
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS
