@@ -20,7 +20,7 @@ Next.js 16 + TypeScript portfolio with custom theming system
 ### [Union Dues Calculator Plugin](https://github.com/ceklund75/dues-calculator-plugin)
 Custom WordPress plugin with embeddable shortcode calculator
 
-### [Client List Shortcode Plugin(https://github.com/ceklund75/client-list-shortcode)
+### [Client List Shortcode Plugin](https://github.com/ceklund75/client-list-shortcode)
 Custom lightweight WordPress plugin that lets editors manage a text-based client roster
 
 ## Currently
