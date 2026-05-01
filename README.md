@@ -10,18 +10,15 @@ Full-stack web developer & consultant specializing in **Next.js, TypeScript, Rea
 
 ## Featured Projects
 
+### [Headless Site Migration](https://drhowardmurad.com)
+Next.js + Typescript + GraphQL Headless WordPress site migration
+
 ### [Headless Marketing Site](https://digitalstrategyltd.com)
 Next.js + Faust + WordPress headless architecture (proprietary code)
 
 ### [Personal Portfolio](https://github.com/ceklund75/portfolio)
 Next.js 16 + TypeScript portfolio with custom theming system  
 [Live Demo](https://cmeklund.com)
-
-### [Union Dues Calculator Plugin](https://github.com/ceklund75/dues-calculator-plugin)
-Custom WordPress plugin with embeddable shortcode calculator
-
-### [Client List Shortcode Plugin](https://github.com/ceklund75/client-list-shortcode)
-Custom lightweight WordPress plugin that lets editors manage a text-based client roster
 
 ## Currently
 Building modern web platforms that prioritize performance, SEO, and content flexibility.
