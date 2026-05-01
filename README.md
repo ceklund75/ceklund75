@@ -11,7 +11,7 @@ Full-stack web developer & consultant specializing in **Next.js, TypeScript, Rea
 ## Featured Projects
 
 ### [Headless Site Migration](https://github.com/ceklund75/drhowardmurad)
-Next.js + Typescript + GraphQL Headless WordPress site migration
+Next.js + Typescript + GraphQL Headless WordPress site migration  
 [Live Site](https://drhowardmurad.com)
 
 ### [Headless Marketing Site](https://digitalstrategyltd.com)
